@@ -1,0 +1,27 @@
+body{
+    background: lavender;
+}
+h1{
+
+ color: bisque;
+ font-size: 48px;
+}
+img{
+background-color:blueviolet;
+}
+.mushroom{
+    background-color: whitesmoke;
+}
+.cherries{
+    background-color:aqua;
+}
+.myself{
+background-color: blueviolet;
+}
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: red;
+}
